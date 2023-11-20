@@ -57,7 +57,8 @@ function sum(first, second, ...others){
 
 console.log(sum(1, 2, 6, 80, 75));
 
-*/
+
 let colors = ['White', 'Blue', 'Silver']
 let [color] = colors
 console.log(color) 
+*/
